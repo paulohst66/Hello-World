@@ -1,6 +1,6 @@
 <?php
 
 echo "Hello World!";
-echo "first update"
+echo "\n <h1>first update</h1>"
 
 ?>
