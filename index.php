@@ -1,3 +1,5 @@
+<html>
+<body>
 <?php
 
 #echo <html>
@@ -8,5 +10,8 @@ echo "\n <h1>first update</h1>"
 #echo '<img src="IMG_4829.PNG">'
 #echo "</body>\n"
 #echo "</html>"
-  
 ?>
+
+<img src="IMG_4829.PNG">
+</body>
+</html>  
