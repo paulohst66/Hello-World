@@ -12,6 +12,6 @@ echo "\n <h1>first update</h1>"
 #echo "</html>"
 ?>
 
-<img src="IMG_4829.PNG">
+<img src="IMG_4829.PNG" height="240" width="480">
 </body>
 </html>  
